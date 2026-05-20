@@ -92,7 +92,7 @@ python DonkeyKong_NDO.py
 ## Structure du projet
 
 ```
-DonkeyKong-1/
+DONKEY_KONG_NDO/
 │
 ├── DonkeyKong_NDO.py         ← Code source principal
 ├── requirements.txt          ← Dépendances Python
