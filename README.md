@@ -55,8 +55,8 @@ Si ce n'est pas le cas, télécharge-le sur **[python.org](https://www.python.or
 ### Étape 1 — Cloner le projet
 
 ```bash
-git clone https://github.com/120480986kf-alt/DONKEY_KONG_NDO_FINAL
-cd DONKEY_KONG_NDO_FINAL
+git clone https://github.com/120480986kf-alt/DONKEY_KONG_NDO
+cd DONKEY_KONG_NDO
 ```
 
 Ou télécharge le ZIP depuis le bouton vert **`Code`** en haut de la page, puis décompresse-le.
