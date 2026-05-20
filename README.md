@@ -73,7 +73,7 @@ pip3 install -r requirements.txt
 
 ---
 
-## 🚀 Lancer le jeu
+## Lancer le jeu
 
 ```bash
 python DonkeyKong_NDO.py
